@@ -1,0 +1,31 @@
+body{
+    background-color: whitesmoke;
+}
+#thirdDiv{
+    background-color:whitesmoke;
+    height:1390px; width: 1779px;
+    padding: 50px;
+    border:  5mm ridge rgba(87, 77, 77, 0.6);
+    font-size: 20px;
+    text-align: justify;
+  }
+  #thirdDiv img {
+    height:400px;
+    width: 700px;
+    margin: 20px;
+  }
+#spanId{
+    font-size: 27px;
+    margin: 780px;
+}
+.divClass h1{
+    text-align: center;
+}
+.divClass h3{
+    font-size: 20px;
+    text-align: center;
+}
+.divClass h4{
+    font-size: 20px;
+    text-align: center;
+}
